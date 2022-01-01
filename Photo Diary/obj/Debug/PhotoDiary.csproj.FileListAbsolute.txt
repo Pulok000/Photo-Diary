@@ -1,0 +1,18 @@
+C:\Users\admin\Desktop\OOP2 Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\bin\Debug\PhotoDiary.exe.config
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\bin\Debug\PhotoDiary.exe.config
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\bin\Debug\PhotoDiary.exe
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\bin\Debug\PhotoDiary.pdb
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.Login.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Properties.Resources.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.exe
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.pdb
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.Dashboard.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.Registration.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.Home.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.AddEvent.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.DeleteEvent.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.UpdateEvent.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.EventDetails.resources
+C:\Users\admin\Desktop\OOP2 Final Assignment\OOP2\Final Assignment\Photo Diary\PhotoDiary\PhotoDiary\obj\Debug\PhotoDiary.Presentation_Layer.UserProfile.resources
